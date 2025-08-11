@@ -1,10 +1,14 @@
 ## Olá! 👋 Sou a Thais,
 
-Sou formada em Sistemas de Informação pelo Senac e em Análise de Qualidade (QA) pelo Bootcamp da TripleTen, onde realmente me encontrei na área. Aprender sobre testes, ferramentas especializadas e como garantir a qualidade de um software me mostrou o quanto esse trabalho é essencial para melhorar a vida das pessoas que usam tecnologia todos os dias.
+Sou formada em Sistemas de Informação pelo Senac e em Análise de Qualidade (QA) pelo Bootcamp da TripleTen, onde tive a oportunidade de entender todo o processo de criação de soluções mais confiáveis.
 
-Nesse curso pude praticar estratégias para manter a qualidade de aplicações, desenvolver um olhar crítico e detalhista e me sentir parte do processo de criar soluções confiáveis e eficientes. Além de envolver a conclusão de 9 projetos com base nas melhores práticas do mercado.
+Desde pequena sou apaixonada por montar quebra-cabeças, e isso sem dúvidas fez com que eu me identificasse com o trabalho de um analista de qualidade e desenvolvesse um olhar crítico e detalhista. Assim como em QA exige muita atenção aos detalhes, concentração e um trabalho em equipe é sempre bem vindo!
 
-Estou empolgada para expandir cada vez mais meu conhecimento em QA e iniciar minha carreira, buscando não só evoluir profissionalmente, mas também ajudar a entregar produtos melhores e fazer a diferença na vida das pessoas.
+Durante o bootcamp, pude colocar em prática estratégias para manter a qualidade de aplicações. Participei de projetos, aprendi a analisar requisitos, escrever casos de teste, automatizar cenários com Selenium WebDriver e realizar testes de API com Postman.
+
+Também desenvolvi meus conhecimentos em ferramentas como Jira, Excel, Android Studio, Figma e consultas em bancos MySQL e PostgreSQL.
+
+Estou sempre em busca de aprender mais, animada para colocar minhas habilidades em prática e atualmente, busco minha primeira oportunidade como Analista de QA Júnior para atuar com automação de testes ou testes manuais, testes de API e garantia de qualidade de software em times ágeis.
 
 ---
 
